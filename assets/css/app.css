@@ -1,0 +1,57 @@
+.w3ac-comment-options-link{
+	font-size:15px;
+}
+
+.vote-buttons-wrapper.comment-vote {
+	font-weight:bold;
+}
+
+.post-vote .vote-count {
+	display:block;
+	width:35px;
+	text-align: center;	
+}
+
+.post-vote .vote-button {
+	cursor:pointer;
+}
+
+.post-vote .vote-count {
+	width:100%;
+	color:#666;
+	font-weight:normal;
+	font-size:20px;
+	font-weight:bold;
+	text-align: center;	
+}
+
+.vote-buttons-wrapper.horizontal {
+	text-align:right;
+}
+
+.vote-buttons-wrapper.horizontal .vote-count {
+	font-size:25px;
+}
+
+.vote-buttons-wrapper.horizontal.post-vote .vote-button, 
+.vote-buttons-wrapper.horizontal.post-vote .vote-count {
+	padding-top:3px;
+	display:inline-block;
+}
+
+.comment-vote .vote-button {
+	width:27px;
+	display:inline-block;
+	text-align:center;
+}
+
+.vote-buttons-wrapper.horizontal.comment-vote .vote-count {
+	font-size: 19px;
+	font-weight:normal;
+}
+
+.comment-vote .vote-button {
+	padding: 0 3px;	
+	font-size: 17px;
+	line-height: 1;
+}
